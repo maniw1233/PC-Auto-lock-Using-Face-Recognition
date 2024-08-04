@@ -1,0 +1,8 @@
+opencv-python-headless
+numpy
+pyautogui
+pillow
+opencv-python
+gunicorn
+flask
+psutil

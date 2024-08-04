@@ -1,0 +1,1 @@
+"C:\Users\me\AppData\Local\Programs\Python\Python36-32\python.exe" "C:\\Users\\heman\\Downloads\\Lock-Unlock-Laptop-PC-Screen-Using-Face-Recognition-master (1)\\Lock-Unlock-Laptop-PC-Screen-Using-Face-Recognition-master\\lock_unlock_face_recognition.py" %*
