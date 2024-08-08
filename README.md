@@ -47,7 +47,7 @@ To set up the project, you'll need the following Python packages:
  1. download the project Zip folder form my github account, then extract that zip folder in your PC or Laptop.
  2. Doownload the VSCode and open the project folder from where You Extracted.
  3. open terminal in VSCode and run This command `pip install -r requirements.txt` it install all the requred tools for run this project.
- 4. change all the path from `create_face_datasets.py`,`lock_unlock_face_recognition.py`, `training_model.py` ,`app.py` also in the `script_runner.bat`  example path r'C:\Users\heman\Downloads\Lock-Unlock-Laptop-PC-Screen-Using-Face-Recognition-master (1)\Lock-Unlock-Laptop-PC-Screen-Using-Face-Recognition-master  ,you should change to your folder path.
+ 4. change all the path from `create_face_datasets.py`,`lock_unlock_face_recognition.py`, `training_model.py` ,`app.py` also in the `script_runner.bat`  example path `r'C:\Users\heman\Downloads\Lock-Unlock-Laptop-PC-Screen-Using-Face-Recognition-master (1)\Lock-Unlock-Laptop-PC-Screen-Using-Face-Recognition-master`  ,you should change to your folder path.
  5. in `script_runner.bat` file you should change only the `lock_unlock_face_recognition.py` path.
  6. if you done all this steps correctly then run the project by run this command in terminal `python app.py`.
  7. after you run `python app.py` command you get one url http://127.0.0.1:8000/  click that ,once you click that it will go to web browser.
