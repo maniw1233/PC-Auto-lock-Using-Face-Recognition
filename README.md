@@ -54,14 +54,14 @@ To set up the project, you'll need the following Python packages:
 
 
 ---
-## my Web Interface Design :
+## My Web Interface Design :
 
 ![WhatsApp Image 2024-08-08 at 7 36 41 PM (1)](https://github.com/user-attachments/assets/0a7c5953-5f74-4003-8271-bf7ea763203f)
 ![WhatsApp Image 2024-08-08 at 7 36 41 PM](https://github.com/user-attachments/assets/095f6156-af68-43bb-a01f-3cde392f5ad0)
 
 ---
 
-## steps for run the project :
+## Steps for run the project :
  1. for run the project you should run this command in terminal `python app.py` then click this url http://127.0.0.1:8000/ afetr click this you should go to web browser and run the project.
  2. In this project fisrt You Register your Face by clicking the create face Dataset in the browser, then it will ask the admin security pin enter the security pin '1234'.
  3. After you enter the security pin the webcam will on and start for face registration you should give some changes in the position your face (left,right,up down) and give some expression.
