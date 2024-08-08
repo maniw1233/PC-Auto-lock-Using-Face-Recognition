@@ -14,7 +14,7 @@ The primary aim of this project is to ensure that your computer remains secure b
 
 
 # Key Features:
-(*) Automatic Locking: Locks your PC automatically when an unregistered or unauthorized face is detected.
+"*" Automatic Locking: Locks your PC automatically when an unregistered or unauthorized face is detected.
 (*) Enhanced Security: Ensures only recognized users can keep the computer unlocked.
 (*) Real-Time Detection: Continuously monitors and verifies faces for seamless security.
 
@@ -60,5 +60,5 @@ flask
 psutil
 
 # staps for setup and run the project :
-1. 
+
 
