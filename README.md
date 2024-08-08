@@ -65,7 +65,7 @@ To set up the project, you'll need the following Python packages:
  1. for run the project you should run this command in terminal `python app.py` then click this url http://127.0.0.1:8000/ afetr click this you should go to web browser and run the project.
  2. In this project fisrt You Register your Face by clicking the create face Dataset in the browser, then it will ask the admin security pin enter the security pin '1234'.
  3. After you enter the security pin the webcam will on and start for face registration you should give some changes in the position your face (left,right,up down) and give some expression.
- 4. after that train the model by clicking 'train face recognision model' after you clicking the this button you shoild wiat some few second (5sec).
+ 4. after that train the model by clicking 'train face recognision model' after you clicking the this button you should wait some few second (5sec).
  5. after you train the model you on the 'Auto-Lock' toggle key and start the face recognition.
  6. if the register face is detected the webcam will be continuesly runing until the un register face is detected ,if the unregister face is detected the pc will automaticly lock.
 
