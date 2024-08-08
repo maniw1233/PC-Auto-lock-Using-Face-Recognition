@@ -9,15 +9,14 @@ The primary aim of this project is to ensure that your computer remains secure b
 
 
 
-
-** Key Features:**
+** Key Features**:
 "*" Automatic Locking: Locks your PC automatically when an unregistered or unauthorized face is detected.
 (*) Enhanced Security: Ensures only recognized users can keep the computer unlocked.
 (*) Real-Time Detection: Continuously monitors and verifies faces for seamless security.
 
 
 
-
+*This is italicized text*
 
 
 
