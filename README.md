@@ -7,10 +7,22 @@ The primary aim of this project is to ensure that your computer remains secure b
 
 
 
+
+
+
+
+
+
 # Key Features:
 (*) Automatic Locking: Locks your PC automatically when an unregistered or unauthorized face is detected.
 (*) Enhanced Security: Ensures only recognized users can keep the computer unlocked.
 (*) Real-Time Detection: Continuously monitors and verifies faces for seamless security.
+
+
+
+
+
+
 
 
 
@@ -22,9 +34,19 @@ The objective of the PC Auto Lock Using Face Recognition project is to enhance c
 
 
 
+
+
+
+
 # Implimentation:
 the feature is the webcam is continuesly run until unregister face is detected, when the unregister face is detected than the pc will automaticly lock.
 in our project there will be one option i.e "auto-lock" toggle key, Admin can on or off when ever he needed, if the Admin on that toggle key the webcam continuesly run until the Admin off that toggle key or unregister face is detected.
+
+
+
+
+
+
 
 
 # Installations :
