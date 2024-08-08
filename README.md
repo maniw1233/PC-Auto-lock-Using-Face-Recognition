@@ -12,9 +12,6 @@ Thank you for checking out this project! The primary aim of this project is to e
 - **Enhanced Security**: Ensures only recognized users can keep the computer unlocked.
 - **Real-Time Detection**: Continuously monitors and verifies faces for seamless security.
 
----
-
-*This is italicized text*
 
 ---
 
